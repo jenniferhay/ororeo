@@ -1,11 +1,7 @@
 
-### Nau mai, haere mai, ki te
 
-# KĒMU OROREO TŪPONOTANGA
-
-## [Tākaro Kēmu](https://greybeetle213.github.io/non-words/maori-index.html) (Kupu Māori)
-## [Tākaro Kēmu](https://greybeetle213.github.io/non-words/index.html) (Kupu Pākeha)
-
+# [Tākaro Kēmu](https://greybeetle213.github.io/non-words/maori-index.html) (Kupu Māori)
+# [Tākaro Kēmu](https://greybeetle213.github.io/non-words/index.html) (Kupu Pākeha)
 
 
 ## NGĀ TURE O TE KĒMU
