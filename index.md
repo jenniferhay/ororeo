@@ -1,6 +1,6 @@
 
 
-# Tākaro Kēmu: [Kupu Māori] https://greybeetle213.github.io/non-words/maori-index.html) | [Kupu Pākehā](https://greybeetle213.github.io/non-words/index.html) 
+# Tākaro Kēmu: [Kupu Māori](https://greybeetle213.github.io/non-words/maori-index.html) | [Kupu Pākehā](https://greybeetle213.github.io/non-words/index.html) 
 
 ## NGĀ TURE O TE KĒMU
 
