@@ -3,9 +3,8 @@
 
 # KĒMU OROREO TŪPONOTANGA
 
-Tākaro Kēmu (Kupu Māori)
-
-Tākaro Kēmu (Kupu Pākehā)
+## [Tākaro Kēmu](https://greybeetle213.github.io/non-words/maori-index.html) (Kupu Māori)
+## [Tākaro Kēmu](https://greybeetle213.github.io/non-words/index.html) (Kupu Pākeha)
 
 ## NGĀ TURE O TE KĒMU
 
@@ -76,7 +75,7 @@ Ko ngā kupu Pākehā i tēnei hinonga: Shallow Morphological Processing in Pseu
 
 Ko ngā kupu Māori i tēnei hinonga. Non-Māori-speaking New Zealanders have a Māori proto-lexicon
 
-Ko ngā hinonga e rua, he hinonga mātauranga wetero.
+Ko ngā hinonga e rua, he hinonga **mātauranga wetero**.
 
 ## HE AHA TE ‘MĀTAURANGA WETEREO’?
  
@@ -107,11 +106,11 @@ Ko te kupu ororeo, te kupu Māori mō tētahi momo wetereo: ko te ‘Phonetics/P
 
 He nui te momo ororeo.  Ānei ētahi tauira:
 
-- Mātauranga whakahua: te ako o te ororeo whakaputa me te ororeo whakarongo (articulatory and auditory phonetics).  He tauira: he rerekē te kaha o te hau o te oro  ‘t’ i te reo Māori, i te reo Pākehā.  He rerekē hoki te mita o ia iwi, o ia whenua, o ia kaikōrero hōki.
+- **Mātauranga whakahua**: te ako o te ororeo whakaputa me te ororeo whakarongo (articulatory and auditory phonetics).  He tauira: he rerekē te kaha o te hau o te oro  ‘t’ i te reo Māori, i te reo Pākehā.  He rerekē hoki te mita o ia iwi, o ia whenua, o ia kaikōrero hōki.
 
-- Ororeo ture (categorical phonology):  te ako o ngā ture o ngā oro, pēhea te hangaia o kupu i ngā oro?   He tauria – kāore e taea te ‘t’ te tū i te whakamutunga o te kupu Māori.   Kāore e taea te ‘ng’ te tū i te timatanga o te kupu Pākeha.  He aha ngā ture rerekē i ngā reo o te ao?  He aha ngā ture, e tū ai i ngā reo katoa?
+- **Ororeo ture** (categorical phonology):  te ako o ngā ture o ngā oro, pēhea te hangaia o kupu i ngā oro?   He tauria – kāore e taea te ‘t’ te tū i te whakamutunga o te kupu Māori.   Kāore e taea te ‘ng’ te tū i te timatanga o te kupu Pākeha.  He aha ngā ture rerekē i ngā reo o te ao?  He aha ngā ture, e tū ai i ngā reo katoa?
 
-- Ororeo tūponotanga (probabilistic phonology):  Mēna ka mōhio koe i ngā kupu i tētahi reo, he nui ngā tauria i ēnei kupu.  He aha ngā āhuatanga auau i te reo, he aha ngā āhuatanga whakaonge?  Ka noho ēnei tūponotanga i te reo, ā i ngā hinengaro o nga kaikōrero o te reo hōki.   Ko te ororeo tūponotanga te ako o ēnei āhuatanga i ngā reo, ā te ako o te mōhiotanga o ngā āhuatanga i ngā kaikōrero.
+- **Ororeo tūponotanga** (probabilistic phonology):  Mēna ka mōhio koe i ngā kupu i tētahi reo, he nui ngā tauria i ēnei kupu.  He aha ngā āhuatanga auau i te reo, he aha ngā āhuatanga whakaonge?  Ka noho ēnei tūponotanga i te reo, ā i ngā hinengaro o nga kaikōrero o te reo hōki.   Ko te ororeo tūponotanga te ako o ēnei āhuatanga i ngā reo, ā te ako o te mōhiotanga o ngā āhuatanga i ngā kaikōrero.
 
 He tauira – ānei ngā ohokuare i te timatanga o kūoro i te reo Māori (i tēnei).
 
@@ -132,7 +131,7 @@ Mehemea kei te noho tētahi tangata i Aoteaora, a kaore taua tangata e  ako i te
 
 He nui ngā momo mōhio i te kupu.   Ka mōhio koutou i ngā kupu maha.  Kei te mohio koutou i te tikanga o ēnei kupu hoki.  Engari, he momo mōhiotanga i mua i tēnei mōhiotanga.
 
-Ka rongo tētahi pēpē i tētahi kupu, ka mōhio ia pea ki te āhua o taua kupu, engari kāore anō kia mohio ki te tikanga o taua kupu.  Ko te ingoa o tēnei momo mōhiotanga ko te puna kupu tuatahi (i te reo Pākehā, te proto-lexicon).
+Ka rongo tētahi pēpē i tētahi kupu, ka mōhio ia pea ki te āhua o taua kupu, engari kāore anō kia mohio ki te tikanga o taua kupu.  Ko te ingoa o tēnei momo mōhiotanga ko te **Puna Kupu Tuatahi** (i te reo Pākehā, te proto-lexicon).
 
 Ko tō mātou pātai: He aha te nui o te ‘punu kupu tuatahi’ o ngā tangata o Aoteroa, ngā tangata kore mōhio i te reo Māori.   He nui tō mātou ohorere ki te whakautu.   He tino nui te puna kupu tuatahi o ētahi tangata!.   I tō ratou puna kupu tuatahi, he orite ō rātou whakaaro e pā ana te pai o ngā kupu i te kēmu nei, ki ngā whakaaro o ngā tangata kōrero Māori. 
 
