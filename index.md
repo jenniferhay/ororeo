@@ -6,6 +6,8 @@
 ## [Tākaro Kēmu](https://greybeetle213.github.io/non-words/maori-index.html) (Kupu Māori)
 ## [Tākaro Kēmu](https://greybeetle213.github.io/non-words/index.html) (Kupu Pākeha)
 
+
+
 ## NGĀ TURE O TE KĒMU
 
 Ka tākorotia ēnei kēmu i te reo Pākeha, i te reo Māori rānei.
@@ -18,20 +20,20 @@ I ngā reo e rua, i hangaia ētahi kupu, ā i pātaitia ētahi tangata e māia a
 
 ### Ko te reo Māori:
 
-- Kino:   aoku (-173 te tatau), upio (-135 te tatau)
+-  	Kino:   *aoku* (-173), *upio* (-135)
 
-- Toharite:  eha (0 te tatau), wīpōkē (0 te tatau)
+-   Toharite:  *eha* (0), *wīpōkē* (0)
 
-- Pai: kīore (253), ngawhāniti (205)
+-   Pai: *kīore* (253), *ngawhāniti* (205)
 
 
 ### Ko te reo Pākehā
 
-- Kino:   gygenard (-159 te tatau)
+-   Kino:   *gygenard* (-159)
 
-- Toharite: wamap (0 te tatau)
+-   Toharite: *wamap* (0)
 
-- Pai:  unappeach (245 te tatau)
+-   Pai:  *unappeach* (245)
 
 Kua kitea, he tino tata ngā kupu tino pai ki tētahi kupu anō.
 
@@ -39,15 +41,15 @@ Ko te mea nui o te kēmu:  me whakaaro koe: he tōraro te kupu, he tōrunga rān
 
 E rua ngā kaitākaro.   Me hanga whārite ia kaitākaro.
 
-1      Kei te puta 10 kupu ki te māui.
+1.      Kei te puta 10 kupu ki te māui.
 
-2     Ka whiriwhiri te kaitākaro tuatahi i tētahi kupu, ā kōwhiri ia i te ‘+” i tōna matapihi, ki te timata o tōna whārite. 
+2.     Ka whiriwhiri te kaitākaro tuatahi i tētahi kupu, ā kōwhiri ia i te ‘+” i tōna matapihi, ki te timata o tōna whārite. 
 
-3      Ka whiriwhiri te kaitākaro tuarua i tāna kupu tuatahi.
+3.      Ka whiriwhiri te kaitākaro tuarua i tāna kupu tuatahi.
 
-4        Ka whiriwhiri te kaitākaro tuatahi i te kupu tuarua, ā whiriwhiri ia, mehemea ka whakareatia, ka tāpiria.
+4.        Ka whiriwhiri te kaitākaro tuatahi i te kupu tuarua, ā whiriwhiri ia, mehemea ka whakareatia, ka tāpiria.
 
-5         Haere tonu,  Me whiriwhiritia ngā kupu katoa.
+5.         Haere tonu,  Me whiriwhiritia ngā kupu katoa.
 
  
 
@@ -64,11 +66,10 @@ Ko kaitākaro 2 te toa.   Ka eke ōna paneke.
 
 -        Mehemea ka whakareatia tētahi tau tōraro ki tētahi tau tōraro – he tau tōrunga te otinga!
 
--         Ka whakaotiotia te whakarea i mua i te tāpiri.
+-        Ka whakaotiotia te whakarea i mua i te tāpiri.
 
 ## HE AHA AI I HANGAIA NGĀ KUPU I TĒNEI KEMU?
  
-
 He hua ngā kupu i ngā hinonga e rua.
 
 Ko ngā kupu Pākehā i tēnei hinonga: Shallow Morphological Processing in Pseudowords
@@ -98,7 +99,6 @@ He nui ngā kaupapa e ākona ai.   Ānei ētahi pātai, e pātaitia ai e ngā to
 
 E hangaia te kupu i tēnei kēmu, kia whakautungia ētahi pātai e pā ana te ororeo.
 
- 
 
 # HE AHA TE ‘OROREO?’
  
@@ -137,8 +137,7 @@ Ko tō mātou pātai: He aha te nui o te ‘punu kupu tuatahi’ o ngā tangata 
 
 Ka noho ngā kupu Māori i te puna kupu tuatahi o ngā tangata i Aotearoa, nō reira, he tino nui tō rātou mōhiotanga, e pā ana te ororeo tūpuonontanga o te reo.
 
-
-  Ānei ngā whakanikoniko. (link)
+Ānei ngā whakanikoniko. (link)
 
 ## KO WAI TĀTOU?
  
@@ -155,7 +154,7 @@ I tuhia te waehere o te pūmanawa tautono e Bob.
  
 I hangaia ngā kupu mō te rangahau o ēnei kairangahau:
 
--      Professor Jen Hay, University of Canterbury
+-         Professor Jen Hay, University of Canterbury
 
 -         Professor Jeanette King, University of Canterbury
 
