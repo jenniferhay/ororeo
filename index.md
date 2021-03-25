@@ -19,20 +19,20 @@ I ngā reo e rua, i hangaia ētahi kupu, ā i pātaitia ētahi tangata e māia a
 
 ### Ko te reo Māori:
 
-Kino:   aoku (-173 te tatau), upio (-135 te tatau)
+- Kino:   aoku (-173 te tatau), upio (-135 te tatau)
 
-Toharite:  eha (0 te tatau), wīpōkē (0 te tatau)
+- Toharite:  eha (0 te tatau), wīpōkē (0 te tatau)
 
-Pai: kīore (253), ngawhāniti (205)
+- Pai: kīore (253), ngawhāniti (205)
 
 
 ### Ko te reo Pākehā
 
-Kino:   gygenard (-159 te tatau)
+- Kino:   gygenard (-159 te tatau)
 
-Toharite: wamap (0 te tatau)
+- Toharite: wamap (0 te tatau)
 
-Pai:  unappeach (245 te tatau)
+- Pai:  unappeach (245 te tatau)
 
 Kua kitea, he tino tata ngā kupu tino pai ki tētahi kupu anō.
 
@@ -40,15 +40,15 @@ Ko te mea nui o te kēmu:  me whakaaro koe: he tōraro te kupu, he tōrunga rān
 
 E rua ngā kaitākaro.   Me hanga whārite ia kaitākaro.
 
-·         Kei te puta 10 kupu ki te māui.
+1      Kei te puta 10 kupu ki te māui.
 
-·         Ka whiriwhiri te kaitākaro tuatahi i tētahi kupu, ā kōwhiri ia i te ‘+” i tōna matapihi, ki te timata o tōna whārite. 
+2     Ka whiriwhiri te kaitākaro tuatahi i tētahi kupu, ā kōwhiri ia i te ‘+” i tōna matapihi, ki te timata o tōna whārite. 
 
-·         Ka whiriwhiri te kaitākaro tuarua i tāna kupu tuatahi.
+3      Ka whiriwhiri te kaitākaro tuarua i tāna kupu tuatahi.
 
-·         Ka whiriwhiri te kaitākaro tuatahi i te kupu tuarua, ā whiriwhiri ia, mehemea ka whakareatia, ka tāpiria.
+4        Ka whiriwhiri te kaitākaro tuatahi i te kupu tuarua, ā whiriwhiri ia, mehemea ka whakareatia, ka tāpiria.
 
-·         Haere tonu,  Me whiriwhiritia ngā kupu katoa.
+5         Haere tonu,  Me whiriwhiritia ngā kupu katoa.
 
  
 
@@ -61,11 +61,11 @@ Ko kaitākaro 2 te toa.   Ka eke ōna paneke.
 
 ## ĒTAHI TUWHIRI PĀNGARAU
 
-·         Mehemea ka whakareatia tētahi tau tōrunga ki tētahi tau tōraro – he tau tōraro te otinga!
+-        Mehemea ka whakareatia tētahi tau tōrunga ki tētahi tau tōraro – he tau tōraro te otinga!
 
-·         Mehemea ka whakareatia tētahi tau tōraro ki tētahi tau tōraro – he tau tōrunga te otinga!
+-        Mehemea ka whakareatia tētahi tau tōraro ki tētahi tau tōraro – he tau tōrunga te otinga!
 
-·         Ka whakaotiotia te whakarea i mua i te tāpiri.
+-         Ka whakaotiotia te whakarea i mua i te tāpiri.
 
 ## HE AHA AI I HANGAIA NGĀ KUPU I TĒNEI KEMU?
  
@@ -85,17 +85,17 @@ Ko te mātauranga wetereo (linguistics) te ako o ‘ngā ture me te hanganga o t
 
 He nui ngā kaupapa e ākona ai.   Ānei ētahi pātai, e pātaitia ai e ngā tohunga wetero.
 
-·         Pēhea te akona o te reo e ngā tamariki?
+-       Pēhea te akona o te reo e ngā tamariki?
 
-·         He aha ngā ture me ngā hanganga rerekē i ngā reo katoa o te ao?
+-       He aha ngā ture me ngā hanganga rerekē i ngā reo katoa o te ao?
 
-·         He aha ngā whakatakotoranga o ngā reo?
+-        He aha ngā whakatakotoranga o ngā reo?
 
-·         He aha te mohiotanga i te hinengaro o te kaikōrero o te reo.
+-        He aha te mohiotanga i te hinengaro o te kaikōrero o te reo.
 
-·         Ka whakaaweawe te reo i te tiro ā tangata ki tōna ake ao
+-       Ka whakaaweawe te reo i te tiro ā tangata ki tōna ake ao
 
-·         Kei te haere ngā reo ki hea, Pēhea ngā whakarerekē?
+-        Kei te haere ngā reo ki hea, Pēhea ngā whakarerekē?
 
 E hangaia te kupu i tēnei kēmu, kia whakautungia ētahi pātai e pā ana te ororeo.
 
@@ -107,11 +107,11 @@ Ko te kupu ororeo, te kupu Māori mō tētahi momo wetereo: ko te ‘Phonetics/P
 
 He nui te momo ororeo.  Ānei ētahi tauira:
 
-Mātauranga whakahua: te ako o te ororeo whakaputa me te ororeo whakarongo (articulatory and auditory phonetics).  He tauira: he rerekē te kaha o te hau o te oro  ‘t’ i te reo Māori, i te reo Pākehā.  He rerekē hoki te mita o ia iwi, o ia whenua, o ia kaikōrero hōki.
+- Mātauranga whakahua: te ako o te ororeo whakaputa me te ororeo whakarongo (articulatory and auditory phonetics).  He tauira: he rerekē te kaha o te hau o te oro  ‘t’ i te reo Māori, i te reo Pākehā.  He rerekē hoki te mita o ia iwi, o ia whenua, o ia kaikōrero hōki.
 
-Ororeo ture (categorical phonology):  te ako o ngā ture o ngā oro, pēhea te hangaia o kupu i ngā oro?   He tauria – kāore e taea te ‘t’ te tū i te whakamutunga o te kupu Māori.   Kāore e taea te ‘ng’ te tū i te timatanga o te kupu Pākeha.  He aha ngā ture rerekē i ngā reo o te ao?  He aha ngā ture, e tū ai i ngā reo katoa?
+- Ororeo ture (categorical phonology):  te ako o ngā ture o ngā oro, pēhea te hangaia o kupu i ngā oro?   He tauria – kāore e taea te ‘t’ te tū i te whakamutunga o te kupu Māori.   Kāore e taea te ‘ng’ te tū i te timatanga o te kupu Pākeha.  He aha ngā ture rerekē i ngā reo o te ao?  He aha ngā ture, e tū ai i ngā reo katoa?
 
-Ororeo tūponotanga (probabilistic phonology):  Mēna ka mōhio koe i ngā kupu i tētahi reo, he nui ngā tauria i ēnei kupu.  He aha ngā āhuatanga auau i te reo, he aha ngā āhuatanga whakaonge?  Ka noho ēnei tūponotanga i te reo, ā i ngā hinengaro o nga kaikōrero o te reo hōki.   Ko te ororeo tūponotanga te ako o ēnei āhuatanga i ngā reo, ā te ako o te mōhiotanga o ngā āhuatanga i ngā kaikōrero.
+- Ororeo tūponotanga (probabilistic phonology):  Mēna ka mōhio koe i ngā kupu i tētahi reo, he nui ngā tauria i ēnei kupu.  He aha ngā āhuatanga auau i te reo, he aha ngā āhuatanga whakaonge?  Ka noho ēnei tūponotanga i te reo, ā i ngā hinengaro o nga kaikōrero o te reo hōki.   Ko te ororeo tūponotanga te ako o ēnei āhuatanga i ngā reo, ā te ako o te mōhiotanga o ngā āhuatanga i ngā kaikōrero.
 
 He tauira – ānei ngā ohokuare i te timatanga o kūoro i te reo Māori (i tēnei).
 
@@ -156,27 +156,27 @@ I tuhia te waehere o te pūmanawa tautono e Bob.
  
 I hangaia ngā kupu mō te rangahau o ēnei kairangahau:
 
-·         Professor Jen Hay, University of Canterbury
+-      Professor Jen Hay, University of Canterbury
 
-·         Professor Jeanette King, University of Canterbury
+-         Professor Jeanette King, University of Canterbury
 
-·         Assistant Professor Simon Todd (Ngāi Tahu), University of California at Santa Barbara
+-         Assistant Professor Simon Todd (Ngāi Tahu), University of California at Santa Barbara
 
-·         Dr Yoon Mi Oh, Ajou University
+-         Dr Yoon Mi Oh, Ajou University
 
-·         Dr Clay Beckner, University of Warwick
+-         Dr Clay Beckner, University of Warwick
 
-·         Professor Janet Pierrehumbert, University of Oxford
+-         Professor Janet Pierrehumbert, University of Oxford
 
-·         Dr Jeremy Needle, University of Toronto
+-         Dr Jeremy Needle, University of Toronto
 
-·         Dr Peter Racz, Central European University
+-         Dr Peter Racz, Central European University
 
-·         Dr Forrest Panther (Te Rarawa), University of Canterbury
+-         Dr Forrest Panther (Te Rarawa), University of Canterbury
 
-·         Dr Wakayo Mattingley, University of Canterbury
+-         Dr Wakayo Mattingley, University of Canterbury
 
-·         Dr Peter Keegan (Waikato Maniapoto),   University of Auckland
+-         Dr Peter Keegan (Waikato Maniapoto),   University of Auckland
 
  
 
