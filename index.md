@@ -103,7 +103,7 @@ He nui ngā kaupapa e ākona ai.   Ānei ētahi pātai, e pātaitia ai e ngā to
 E hangaia te kupu i tēnei kēmu, kia whakautungia ētahi pātai e pā ana te ororeo.
 
 
-## HE AHA TE ‘OROREO?’/
+## HE AHA TE ‘OROREO?’
  
 Ko te kupu ororeo, te kupu Māori mō tētahi momo wetereo: ko te ‘Phonetics/Phonology’
 
