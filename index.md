@@ -47,13 +47,6 @@ E rua ngā kaitākaro.   Me hanga whārite ia kaitākaro.
 
  
 
-He Tauira:
-
-
-Ānei tētahi tauira, o ngā kupu i whiriwhiritia e te kaitākaro tuatahi (ki runga), rāua ko te kaitākaro tuarua (ki raro).  Mēna e rima kupu ki ia kaitākaro, ka kitea te tatau
-
-Ko kaitākaro 2 te toa.   Ka eke ōna paneke.
-
 ## ĒTAHI TUWHIRI PĀNGARAU
 
 -        Mehemea ka whakareatia tētahi tau tōrunga ki tētahi tau tōraro – he tau tōraro te otinga!
@@ -61,6 +54,19 @@ Ko kaitākaro 2 te toa.   Ka eke ōna paneke.
 -        Mehemea ka whakareatia tētahi tau tōraro ki tētahi tau tōraro – he tau tōrunga te otinga!
 
 -        Ka whakaotiotia te whakarea i mua i te tāpiri.
+       
+
+## HE TAUIRA:
+
+
+Ānei tētahi tauira, o ngā kupu i whiriwhiritia e te kaitākaro tuatahi (ki runga), rāua ko te kaitākaro tuarua (ki raro).  Mēna e rima kupu ki ia kaitākaro, ka kitea te tatau.
+
+![Tauira](wordsandnumbers.png)
+
+Ko kaitākaro 2 te toa.   Ka eke ōna paneke.
+
+![Tauira](wordsandnumbers.png)
+
 
 ## HE AHA AI I HANGAIA NGĀ KUPU I TĒNEI KEMU?
  
@@ -107,6 +113,8 @@ He nui te momo ororeo.  Ānei ētahi tauira:
 - **Ororeo tūponotanga** (probabilistic phonology):  Mēna ka mōhio koe i ngā kupu i tētahi reo, he nui ngā tauria i ēnei kupu.  He aha ngā āhuatanga auau i te reo, he aha ngā āhuatanga whakaonge?  Ka noho ēnei tūponotanga i te reo, ā i ngā hinengaro o nga kaikōrero o te reo hōki.   Ko te ororeo tūponotanga te ako o ēnei āhuatanga i ngā reo, ā te ako o te mōhiotanga o ngā āhuatanga i ngā kaikōrero.
 
 He tauira – ānei ngā ohokuare i te timatanga o kūoro i te reo Māori (i tēnei).
+
+![graph](graph.png)
 
 I te kūoro tuatahi o ngā kupu Māori, he nui ake kuōro e timata ai ki te ‘m’, i te ‘r’.  Engari, i ngā kūoro tuarua, he nui ake ngā kuōre e timata ai ki te ‘r’ i te ‘m’.
 
