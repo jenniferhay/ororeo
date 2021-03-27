@@ -61,14 +61,14 @@ Mehemea ka hiahiatia ētahi ture ngāwari - ka taea te 'x' e waihotia.   Ka tāk
 ## HE TAUIRA:
 
 
-Ānei tētahi tauira, o ngā kupu i whiriwhiritia e te kaitākaro tuatahi (ki runga), rāua ko te kaitākaro tuarua (ki raro).  Mēna e rima kupu ki ia kaitākaro, ka kitea te tatau.
-
+Ānei tētahi tauira, o ngā kupu i whiriwhiritia e te kaitākaro tuatahi (ki runga), rāua ko te kaitākaro tuarua (ki raro).  
 ![Tauira](withoutscores.png)
 
-Ko kaitākaro 2 te toa.   Ka eke ōna paneke.
+Mēna e rima kupu ki ia kaitākaro, ka kitea te tatau.
 
 ![Tauira](withscores.png)
 
+Ko kaitākaro 2 te toa.   Ka eke ōna paneke.  Mena ka eke tētahi paneke ki '5', ka oti te kēmu.
 
 
 ## HE AHA AI I HANGAIA NGĀ KUPU I TĒNEI KEMU?
