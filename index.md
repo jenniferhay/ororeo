@@ -35,15 +35,15 @@ Ko te mea nui o te kēmu:  me whakaaro koe: he tōraro te kupu, he tōrunga rān
 
 E rua ngā kaitākaro.   Me hanga whārite ia kaitākaro.
 
-1.      Kei te puta 10 kupu ki te māui.
+1.     Kei te puta 10 kupu ki te māui.
 
 2.     Ka whiriwhiri te kaitākaro tuatahi i tētahi kupu, ā kōwhiri ia i te ‘+” i tōna matapihi, ki te timata o tōna whārite. 
 
-3.      Ka whiriwhiri te kaitākaro tuarua i tāna kupu tuatahi.
+3.     Ka whiriwhiri te kaitākaro tuarua i tāna kupu tuatahi.
 
-4.        Ka whiriwhiri te kaitākaro tuatahi i te kupu tuarua, ā whiriwhiri ia, mehemea ka whakareatia, ka tāpiria.
+4.     Ka whiriwhiri te kaitākaro tuatahi i te kupu tuarua, ā whiriwhiri ia, mehemea ka whakareatia, ka tāpiria.
 
-5.         Haere tonu,  Me whiriwhiritia ngā kupu katoa.
+5.     Haere tonu,  Me whiriwhiritia ngā kupu katoa.
 
  
 
@@ -67,16 +67,15 @@ Ko kaitākaro 2 te toa.   Ka eke ōna paneke.
 
 ![Tauira](withscores.png)
 
-![Tauira](example2.png)
 
 
 ## HE AHA AI I HANGAIA NGĀ KUPU I TĒNEI KEMU?
  
 He hua ngā kupu i ngā hinonga e rua.
 
-Ko ngā kupu Pākehā i tēnei hinonga: Shallow Morphological Processing in Pseudowords
+Ko ngā kupu Pākehā i tēnei hinonga: [Phonotactic and Morphological Effects in the Acceptability of Pseudowords](http://www.phon.ox.ac.uk/jpierrehumbert/publications/pseudowords_mtlc_share.pdf)
 
-Ko ngā kupu Māori i tēnei hinonga. Non-Māori-speaking New Zealanders have a Māori proto-lexicon
+Ko ngā kupu Māori i tēnei hinonga. [Non-Māori-speaking New Zealanders have a Māori proto-lexicon](https://www.nature.com/articles/s41598-020-78810-4)
 
 Ko ngā hinonga e rua, he hinonga **mātauranga wetero**.
 
@@ -91,7 +90,7 @@ He nui ngā kaupapa e ākona ai.   Ānei ētahi pātai, e pātaitia ai e ngā to
 
 -       He aha ngā ture me ngā hanganga rerekē i ngā reo katoa o te ao?
 
--        He aha ngā whakatakotoranga o ngā reo?
+-       He aha ngā whakatakotoranga o ngā reo?
 
 -        He aha te mohiotanga i te hinengaro o te kaikōrero o te reo.
 
@@ -117,6 +116,7 @@ He nui te momo ororeo.  Ānei ētahi tauira:
 He tauira – ānei ngā ohokuare i te timatanga o kūoro i te reo Māori (i tēnei).
 
 ![graph](graph.png)
+(I te hinonga: [Gradient Māori Phonotactics](https://peterracz.files.wordpress.com/2017/02/gradient_maori_phonotactics_te_reo.pdf)
 
 I te kūoro tuatahi o ngā kupu Māori, he nui ake kuōro e timata ai ki te ‘m’, i te ‘r’.  Engari, i ngā kūoro tuarua, he nui ake ngā kuōre e timata ai ki te ‘r’ i te ‘m’.
 
@@ -124,7 +124,7 @@ Nō reira, mehemea ka hanga au i ētahi kupu hou, he pai ake te ‘mire’ i te 
 
 Ka noho pēnei āhuatanga o te reo i tō hinengaro.
 
-(I tēnei hinonga:  "Gradient Māori Phonotactics" (Te Reo).)
+
 
  
 # HE AHA TĒTAHI TAUIRA O TE RANGAHAU KI ĒNEI KUPU?
