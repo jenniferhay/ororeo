@@ -61,11 +61,13 @@ E rua ngā kaitākaro.   Me hanga whārite ia kaitākaro.
 
 Ānei tētahi tauira, o ngā kupu i whiriwhiritia e te kaitākaro tuatahi (ki runga), rāua ko te kaitākaro tuarua (ki raro).  Mēna e rima kupu ki ia kaitākaro, ka kitea te tatau.
 
-![Tauira](wordsandnumbers.png)
+![Tauira](withoutscores.png)
 
 Ko kaitākaro 2 te toa.   Ka eke ōna paneke.
 
-![Tauira](wordsandnumbers.png)
+![Tauira](withscores.png)
+
+![Tauira](example2.png)
 
 
 ## HE AHA AI I HANGAIA NGĀ KUPU I TĒNEI KEMU?
