@@ -8,9 +8,9 @@ Ka tākorotia ēnei kēmu i te reo Pākeha, i te reo Māori rānei.
 
 I ngā reo e rua, i hangaia ētahi kupu, ā i pātaitia ētahi tangata e māia ai i te reo, he aha te pai, te kore rānei kia tū ēnei kupu hei kupu o te reo tūturu. Hei tauira, ko te kupu ‘otiko’ he kupu āhua Māori atu i te kupu ‘iengāo’.
 
-(I whakamuri mātou i ngā whakautu toharite mō ia kupu ki te tuari māori, ā whakareatia ki te 10).   Ko te mea nui: mehemea he tino pai te kupu, he tau tōrunga te tatau.  Mehemea he tino kino, he tau tōraro te tatau.  Ko te tatau o te kupu toharite: 0.
+Ko te mea nui mō ēnei kēmu: mehemea he tino pai te kupu - he pai ia ki te nuinga o ngā tangata - he tau tōrunga te tatau.  Mehemea he tino kino, he tau tōraro te tatau.  Ko te tatau o te kupu toharite: 0.
 
-Ānei ētahi tauira.  He kupu tino kino, tino pai, ā he kupu toharite, i ia reo.
+Ānei ētahi tauira o ētahi kupu tino kino, tino pai, ā ētahi kupu toharite, i ia reo.
 
 ### Ko te reo Māori:
 
@@ -29,7 +29,7 @@ I ngā reo e rua, i hangaia ētahi kupu, ā i pātaitia ētahi tangata e māia a
 
 -   Pai:  *unappeach* (245)
 
-Kua kitea, he tino tata ngā kupu tino pai ki tētahi kupu anō.
+Kua kitea, he tino tata ngā kupu tino pai ki tētahi kupu tuturu.
 
 Ko te mea nui o te kēmu:  me whakaaro koe: he tōraro te kupu, he tōrunga rānei?
 
@@ -43,7 +43,7 @@ E rua ngā kaitākaro.   Me hanga whārite ia kaitākaro.
 
 4.     Ka whiriwhiri te kaitākaro tuatahi i te kupu tuarua, ā whiriwhiri ia, mehemea ka whakareatia, ka tāpiria.
 
-5.     Haere tonu,  Me whiriwhiritia ngā kupu katoa.
+5.     Haere tonu.  Me whiriwhiritia ngā kupu katoa.
 
  
 
@@ -64,11 +64,11 @@ Mehemea ka hiahiatia ētahi ture ngāwari - ka taea te 'x' e waihotia.   Ka tāk
 Ānei tētahi tauira, o ngā kupu i whiriwhiritia e te kaitākaro tuatahi (ki runga), rāua ko te kaitākaro tuarua (ki raro).  
 ![Tauira](withoutscores.png)
 
-Mēna e rima kupu ki ia kaitākaro, ka kitea te tatau.
+Ka e rima kupu ki a ia kaitākaro, ka kitea te tatau.
 
 ![Tauira](withscores.png)
 
-Ko kaitākaro 2 te toa.   Ka eke ōna paneke.  Mena ka eke tētahi paneke ki '5', ka oti te kēmu.
+Ko kaitākaro 2 te toa.   Ka eke ōna paneke.   Ka eke tētahi paneke ki '5', ka oti te kēmu.
 
 
 ## HE AHA AI I HANGAIA NGĀ KUPU I TĒNEI KEMU?
@@ -94,11 +94,11 @@ He nui ngā kaupapa e ākona ai.   Ānei ētahi pātai, e pātaitia ai e ngā to
 
 -       He aha ngā whakatakotoranga o ngā reo?
 
--        He aha te mohiotanga i te hinengaro o te kaikōrero o te reo.
+-        He aha te mohiotanga i te hinengaro o te kaikōrero o te reo?
 
--       Ka whakaaweawe te reo i te tiro ā tangata ki tōna ake ao
+-       Ka whakaaweawe te reo i te tiro ā tangata ki tōna ake ao?
 
--        Kei te haere ngā reo ki hea, Pēhea ngā whakarerekē?
+-        Kei te haere ngā reo ki hea? Pēhea ngā whakarerekē?
 
 E hangaia te kupu i tēnei kēmu, kia whakautungia ētahi pātai e pā ana te ororeo.
 
@@ -135,13 +135,12 @@ Ka noho pēnei āhuatanga o te reo i tō hinengaro.
  
 Ko te take nui, i hangaia ai mātou i ngā kupu Māori, kia whakautungia tēnei pātai:
 
-Mehemea kei te noho tētahi tangata i Aoteaora, a kāore taua tangata e  ako i te reo Māori,  kāore taua tangata e korero i te reo Māori - he aha te mōhiotanga o tēnei tangata?    Kei te rongo ngā tangata o Aotearoa katoa i te reo Māori i ētahi wā.   Ngā mihimihi, ngā waiata, ngā karakia pea. Kāore i orotaua, kei te mahara ngā kupu e rātou.   
+Mehemea kei te noho tētahi tangata i Aoteaora, a kāore taua tangata e  ako i te reo Māori,  kāore taua tangata e korero i te reo Māori - he aha te mōhiotanga o tēnei tangata?    Kei te rongo ngā tangata o Aotearoa katoa i te reo Māori i ētahi wā.   I ngā mihimihi, ngā waiata, ngā karakia hoki. Kāore i orotaua, kei te mahara ngā kupu e rātou.   
 
 He nui ngā momo mōhio i te kupu.   Ka mōhio koutou i ngā kupu maha.  Kei te mohio koutou i te tikanga o ēnei kupu hoki.  Engari, he momo mōhiotanga i mua i tēnei mōhiotanga.
-
 Ka rongo tētahi pēpē i tētahi kupu, ka mōhio ia pea ki te āhua o taua kupu, engari kāore anō kia mohio ki te tikanga o taua kupu.  Ko te ingoa o tēnei momo mōhiotanga ko te **Puna Kupu Tuatahi** (i te reo Pākehā, te proto-lexicon).
 
-Ko tō mātou pātai: He aha te nui o te ‘punu kupu tuatahi’ o ngā tangata o Aoteroa, ngā tangata kore mōhio i te reo Māori.   He nui tō mātou ohorere ki te whakautu.   He tino nui te puna kupu tuatahi o ētahi tangata!.   I tō ratou puna kupu tuatahi, he orite ō rātou whakaaro e pā ana te pai o ngā kupu i te kēmu nei, ki ngā whakaaro o ngā tangata kōrero Māori. 
+Ko tō mātou pātai: He aha te nui o te ‘punu kupu tuatahi’ o ngā tangata o Aotearoa, ngā tangata kore mōhio i te reo Māori?   He nui tō mātou ohorere ki te whakautu.   He tino nui te puna kupu tuatahi o ēnei tangata!   I tō rātou puna kupu tuatahi, he orite ō rātou whakaaro e pā ana te pai o ngā kupu i te kēmu nei, ki ngā whakaaro o ngā tangata kōrero Māori. 
 
 Ka noho ngā kupu Māori i te puna kupu tuatahi o ngā tangata i Aotearoa, nō reira, he tino nui tō rātou mōhiotanga, e pā ana te ororeo tūpuonontanga o te reo.
 
@@ -151,7 +150,7 @@ Ka noho ngā kupu Māori i te puna kupu tuatahi o ngā tangata i Aotearoa, nō r
  
 ### Te kaituhi o te whārangi ipurangi nei
  
-I tuhia tēnei whārangi e Jen Hay.  He ahorangi matauranga wetereo ia.   Ko Jen te Kaiwhakahaere Matua o Te Kāhui Roro Reo, tētahi rōpū rangahau i Te Whare Wānanga o Waitaha. He maha ana mahi rangahau mō ngā āhuatanga o ngā reo: te rerekē haere, me te wetewete kupu.   Ko ngāti Pākehā te iwi.  He ākonga ia o te reo Māori, ā kua tuhia tēnei rauemi hei aromatawai mō tōna akoranga Māori i te Whare Wananga o Waitaha.  Ko Komene Kururangi te kaiako.
+I tuhia tēnei whārangi e Jen Hay.  He ahorangi mātauranga wetereo ia.   Ko Jen te Kaiwhakahaere Matua o Te Kāhui Roro Reo, tētahi rōpū rangahau i Te Whare Wānanga o Waitaha. He maha ana mahi rangahau mō ngā āhuatanga o ngā reo: te rerekē haere, me te wetewete kupu.   Ko ngāti Pākehā te iwi.  He ākonga ia o te reo Māori, ā kua tuhia tēnei rauemi hei aromatawai mō tōna akoranga Māori i te Whare Wananga o Waitaha.  Ko Komene Kururangi te kaiako.
 
 ### Ngā kaitito o te kēmu
 I titoa te kēmu e Jen rāua ko tānā tama – Bob Haywood.  13 ōna tau.   
