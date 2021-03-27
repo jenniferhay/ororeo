@@ -54,8 +54,10 @@ E rua ngā kaitākaro.   Me hanga whārite ia kaitākaro.
 -        Mehemea ka whakareatia tētahi tau tōraro ki tētahi tau tōraro – he tau tōrunga te otinga!
 
 -        Ka whakaotiotia te whakarea i mua i te tāpiri.
-       
 
+Mehemea ka hiahiatia ētahi ture ngāwari - ka taea te 'x' e waihotia.   Ka tākaro ngā kaitākaro e rua ki te '+' anake.
+
+       
 ## HE TAUIRA:
 
 
@@ -116,6 +118,8 @@ He nui te momo ororeo.  Ānei ētahi tauira:
 He tauira – ānei ngā ohokuare i te timatanga o kūoro i te reo Māori (i tēnei).
 
 ![graph](graph.png)
+
+
 (I te hinonga: [Gradient Māori Phonotactics](https://peterracz.files.wordpress.com/2017/02/gradient_maori_phonotactics_te_reo.pdf)
 
 I te kūoro tuatahi o ngā kupu Māori, he nui ake kuōro e timata ai ki te ‘m’, i te ‘r’.  Engari, i ngā kūoro tuarua, he nui ake ngā kuōre e timata ai ki te ‘r’ i te ‘m’.
@@ -131,7 +135,7 @@ Ka noho pēnei āhuatanga o te reo i tō hinengaro.
  
 Ko te take nui, i hangaia ai mātou i ngā kupu Māori, kia whakautungia tēnei pātai:
 
-Mehemea kei te noho tētahi tangata i Aoteaora, a kaore taua tangata e  ako i te reo Māori,  kāore taua tangata e korero i te reo Māori - he aha te mōhiotanga o tēnei tangata?    Kei te rongo ngā tangata o Aotearoa katoa i te reo Māori i ētahi wā.   Ngā mihimihi, ngā waiata, ngā karakia pea. Kāore i orotaua, kei te mahara ngā kupu e rātou.   
+Mehemea kei te noho tētahi tangata i Aoteaora, a kāore taua tangata e  ako i te reo Māori,  kāore taua tangata e korero i te reo Māori - he aha te mōhiotanga o tēnei tangata?    Kei te rongo ngā tangata o Aotearoa katoa i te reo Māori i ētahi wā.   Ngā mihimihi, ngā waiata, ngā karakia pea. Kāore i orotaua, kei te mahara ngā kupu e rātou.   
 
 He nui ngā momo mōhio i te kupu.   Ka mōhio koutou i ngā kupu maha.  Kei te mohio koutou i te tikanga o ēnei kupu hoki.  Engari, he momo mōhiotanga i mua i tēnei mōhiotanga.
 
@@ -141,7 +145,7 @@ Ko tō mātou pātai: He aha te nui o te ‘punu kupu tuatahi’ o ngā tangata 
 
 Ka noho ngā kupu Māori i te puna kupu tuatahi o ngā tangata i Aotearoa, nō reira, he tino nui tō rātou mōhiotanga, e pā ana te ororeo tūpuonontanga o te reo.
 
-Ānei ngā whakanikoniko. (link)
+[Ānei ngā whakanikoniko]((https://www.nature.com/articles/s41598-020-78810-4)
 
 ## KO WAI TĀTOU?
  
