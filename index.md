@@ -42,9 +42,9 @@ E rua ngā kaitākaro.   Me hanga whārite ia kaitākaro.
 
 3.     Ka whiriwhiri te kaitākaro tuarua i tāna kupu tuatahi.
 
-4.     Ka whiriwhiri te kaitākaro tuatahi i te kupu tuarua, ā whiriwhiri ia, mehemea ka whakareatia, ka tāpiria.
+4.     Ka whiriwhiri te kaitākaro tuatahi i te kupu tuarua.  Kātahi ka whiriwhiri ia, mehemea ka whakareatia, ka tāpiria rānei.
 
-5.     Haere tonu.  Me whiriwhiritia ngā kupu katoa.
+5.     Haere tonu.  Me whiriwhiritia ngā kupu tēkau katoa.  E 5 kup ki ia kaitākaro.
 
  
 
