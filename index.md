@@ -190,11 +190,11 @@ I hangaia ngā kupu mō te rangahau o ēnei kairangahau:
 
 2.	 Ānei ētahi meka e pā ana ngā reo.   He meka ororeo ture, ororeo tūponontanga,  mātauranga whakaputa, rānei?
 
- a.	Hāunga te ‘m’ me te ‘n’: i te reo Hapanihi, e kore ngā orokati e āhei te tū ki te whakamutunga o te kūoro. 
+ -	Hāunga te ‘m’ me te ‘n’: i te reo Hapanihi, e kore ngā orokati e āhei te tū ki te whakamutunga o te kūoro. 
  
- b.	He tino rerekē te oro te kupu Pākehā ‘fish’ i Aotearoa, i Ahitereiria.
+ -	He tino rerekē te oro te kupu Pākehā ‘fish’ i Aotearoa, i Ahitereiria.
  
- c.	Kāore i te pai ki ngā kaikōrero o te reo Pākehā, mēna ka tino tata i tētahi kupu e rua ngā oro ‘hīhi’.  (‘s’, ‘sh’, “ch” rānei)
+ -	Kāore i te pai ki ngā kaikōrero o te reo Pākehā, mēna ka tino tata i tētahi kupu e rua ngā oro ‘hīhi’.  (‘s’, ‘sh’, “ch” rānei)
  
 3.	Whakaarotia o ētahi reo, e rangona e koutou, engari kāore e taea e koutou te kōrero.   Ki ō koutou whakaaro, ka uaua, ka ngāwari rānei tēnei kēmu i pērā reo?  He aha ai?
 
