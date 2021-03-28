@@ -164,7 +164,7 @@ Ka noho ngā kupu Māori i te puna kupu tuatahi o ngā tangata i Aotearoa, nō r
 
 4.	He aha ētahi meka anō e mōhiotia ai e koutou, e pā ana ngā oro o ngā reo o te ao?   Mō ia meka, wānangatia:he meka ohoreo ture, ohoreo tūponotanga, ohoreo whakaputa rānei?
 
-## KO WAI TĀTOU?
+## KO WAI MĀTOU?
  
 ### Te kaituhi o te whārangi ipurangi nei
  
