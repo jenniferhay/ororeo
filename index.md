@@ -6,7 +6,7 @@
 
 Ka tākorotia ēnei kēmu i te reo Pākeha, i te reo Māori rānei.
 
-I ngā reo e rua, i hangaia ētahi kupu (1700 kupu i te reo Māori, 6100 i te reo Pākeha), ā i pātaitia ētahi tangata e māia ai i te reo, he aha te pai, te kore rānei kia tū ēnei kupu hei kupu o te reo tūturu. Hei tauira, ko te kupu ‘otiko’ he kupu āhua Māori atu i te kupu ‘iengāo’.
+I ngā reo e rua, i hangaia ētahi kupu (1700 kupu i te reo Māori, 6100 i te reo Pākeha), ā i pātaitia ētahi tangata i māia ai i te reo, he aha te pai, te kore rānei kia tū ēnei kupu hei kupu o te reo tūturu. Hei tauira, ko te kupu ‘otiko’ he kupu āhua Māori atu i te kupu ‘iengāo’.
 
 Kua tatau tātou – he aha te pai (te kino rānei) o ēnei kupu katoa.  Ki ia kupu tētahi nama.
 Ko te mea nui mō ēnei kēmu: mehemea he tino pai te kupu - he pai ia ki te nuinga o ngā tangata - he tau tōrunga te tatau.  Mehemea he tino kino, he tau tōraro te tatau.  Ko te tatau o te kupu toharite: 0.
@@ -87,7 +87,7 @@ Ko ngā hinonga e rua, he hinonga **mātauranga wetero**.
 
 Ko te mātauranga wetereo (linguistics) te ako o ‘ngā ture me te hanganga o te reo’.
 
-He nui ngā kaupapa e ākona ai.   Ānei ētahi pātai, e pātaitia ai e ngā tohunga wetero.
+He nui ngā kaupapa e ākona nei.   Ānei ētahi pātai, i pātaitia ai e ngā tohunga wetero.
 
 -       Pēhea te akona o te reo e ngā tamariki?
 
@@ -112,7 +112,7 @@ He nui te momo ororeo.  Ānei ētahi tauira:
 
 - **Mātauranga whakahua**: te ako o te ororeo whakaputa me te ororeo whakarongo (articulatory and auditory phonetics).  He tauira: he rerekē te kaha o te hau o te oro  ‘t’ i te reo Māori, i te reo Pākehā.  He rerekē hoki te mita o ia iwi, o ia whenua, o ia kaikōrero hōki.
 
-- **Ororeo ture** (categorical phonology):  te ako o ngā ture o ngā oro - pēhea te hangaia o ngā kupu i ngā oro?   He tauria – kāore e taea te ‘t’ te tū i te whakamutunga o ngā kupu Māori.   Kāore e taea te ‘ng’ te tū i te timatanga o ngā kupu Pākeha. Ētahi pātai o tēnei momo orero: he aha ngā ture rerekē i ngā reo o te ao?  He aha ngā ture, e tū ai i ngā reo katoa?
+- **Ororeo ture** (categorical phonology):  te ako o ngā ture o ngā oro - pēhea te hangaia o ngā kupu i ngā oro?   He tauria – kāore e taea te ‘t’ te tū i te whakamutunga o ngā kupu Māori.   Kāore e taea te ‘ng’ te tū i te timatanga o ngā kupu Pākeha. Ētahi pātai o tēnei momo orero: he aha ngā ture rerekē i ngā reo o te ao?  He aha ngā ture, e tū rā i ngā reo katoa?
 
 - **Ororeo tūponotanga** (probabilistic phonology):  Mēna ka mōhio koe i ngā kupu i tētahi reo, he nui ngā tauira i taua kupu i tō roro.  He aha ngā āhuatanga auau i te reo, he aha ngā āhuatanga whakaonge?  Ka noho ēnei tūponotanga i te reo, ā i ngā hinengaro o nga kaikōrero o te reo hōki.   Ko te ororeo tūponotanga te ako o ēnei āhuatanga i ngā reo, ā te ako o te mōhiotanga o aua āhuatanga i ngā kaikōrero.
 
@@ -123,7 +123,7 @@ He tauira – ānei ngā ohokati i te tīmatanga o ngā kūoro o kupu o te reo M
 
 (I te hinonga: [Gradient Māori Phonotactics](https://peterracz.files.wordpress.com/2017/02/gradient_maori_phonotactics_te_reo.pdf))
 
-Ka kitea, i te kūoro tuatahi o ngā kupu Māori, he nui ake kuōro e timata ai ki te ‘m’, i te ‘r’.  Engari, i ngā kūoro tuarua, he nui ake ngā kuōre e timata ai ki te ‘r’ i te ‘m’.
+Ka kitea, i te kūoro tuatahi o ngā kupu Māori, he nui ake kuōro i timata ai ki te ‘m’, i te ‘r’.  Engari, i ngā kūoro tuarua, he nui ake ngā kuōre i timata ai ki te ‘r’ i te ‘m’.
 
 Nō reira, mehemea ka hanga au i ētahi kupu hou, he pai ake te ‘mire’ i te ‘rime’, pea.
 
@@ -149,9 +149,9 @@ Ka noho ngā kupu Māori i te puna kupu tuatahi o ngā tangata i Aotearoa, nō r
 ## I TE AKOMANGA
 
 Ānei ētahi pātai, kia wānangatia i te akomanga.
-1.	Wānangatia:  he aha ngā āhuatanga o ngā kupu tino pai ki a koutou?  He aha ngā āhuatanga o ngā kupu tino kino?   He aha ētahi rerekē e kitea ai o te reo Māori i te reo Pākeha?
+1.	Wānangatia:  he aha ngā āhuatanga o ngā kupu tino pai ki a koutou?  He aha ngā āhuatanga o ngā kupu tino kino?   He aha ētahi rerekē i kitea ai o te reo Māori i te reo Pākeha?
 
-2.	 Ānei ētahi meka e pā ana ngā reo.   He meka ororeo ture, ororeo tūponontanga,  mātauranga whakaputa, rānei?
+2.	 Ānei ētahi meka e pā ana ngā reo.   He meka ororeo ture, ororeo tūponontanga,  mātauranga whakahua, rānei?
 
  -	Hāunga te ‘m’ me te ‘n’: i te reo Hapanihi, e kore ngā orokati e āhei te tū ki te whakamutunga o te kūoro. 
  
@@ -159,9 +159,9 @@ Ka noho ngā kupu Māori i te puna kupu tuatahi o ngā tangata i Aotearoa, nō r
  
  -	Kāore i te pai ki ngā kaikōrero o te reo Pākehā, mēna ka tino tata i tētahi kupu e rua ngā oro ‘hīhi’.  (‘s’, ‘sh’, “ch” rānei)
  
-3.	Whakaarotia o ētahi reo, e rangona e koutou, engari kāore e taea e koutou te kōrero.   Ki ō koutou whakaaro, ka uaua, ka ngāwari rānei tēnei kēmu i pērā reo?  He aha ai?
+3.	Whakaarotia o ētahi reo, i rangona ai e koutou, engari kāore e taea e koutou te kōrero.   Ki ō koutou whakaaro, ka uaua, ka ngāwari rānei tēnei kēmu i pērā reo?  He aha ai?
 
-4.	He aha ētahi meka anō e mōhiotia ai e koutou, e pā ana ngā oro o ngā reo o te ao?   Mō ia meka, wānangatia:he meka ohoreo ture, ohoreo tūponotanga, ohoreo whakaputa rānei?
+4.	He aha ētahi meka anō e mōhiotia nā e koutou, e pā ana ngā oro o ngā reo o te ao?   Mō ia meka, wānangatia:he meka ohoreo ture, ohoreo tūponotanga, ohoreo whakahua rānei?
 
 ## KO WAI MĀTOU?
  
