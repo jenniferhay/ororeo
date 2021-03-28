@@ -112,9 +112,9 @@ He nui te momo ororeo.  Ānei ētahi tauira:
 
 - **Mātauranga whakahua**: te ako o te ororeo whakaputa me te ororeo whakarongo (articulatory and auditory phonetics).  He tauira: he rerekē te kaha o te hau o te oro  ‘t’ i te reo Māori, i te reo Pākehā.  He rerekē hoki te mita o ia iwi, o ia whenua, o ia kaikōrero hōki.
 
-- **Ororeo ture** (categorical phonology):  te ako o ngā ture o ngā oro, pēhea te hangaia o kupu i ngā oro?   He tauria – kāore e taea te ‘t’ te tū i te whakamutunga o te kupu Māori.   Kāore e taea te ‘ng’ te tū i te timatanga o te kupu Pākeha.  He aha ngā ture rerekē i ngā reo o te ao?  He aha ngā ture, e tū ai i ngā reo katoa?
+- **Ororeo ture** (categorical phonology):  te ako o ngā ture o ngā oro - pēhea te hangaia o ngā kupu i ngā oro?   He tauria – kāore e taea te ‘t’ te tū i te whakamutunga o ngā kupu Māori.   Kāore e taea te ‘ng’ te tū i te timatanga o ngā kupu Pākeha. Ētahi pātai o tēnei momo orero: he aha ngā ture rerekē i ngā reo o te ao?  He aha ngā ture, e tū ai i ngā reo katoa?
 
-- **Ororeo tūponotanga** (probabilistic phonology):  Mēna ka mōhio koe i ngā kupu i tētahi reo, he nui ngā tauria i ēnei kupu.  He aha ngā āhuatanga auau i te reo, he aha ngā āhuatanga whakaonge?  Ka noho ēnei tūponotanga i te reo, ā i ngā hinengaro o nga kaikōrero o te reo hōki.   Ko te ororeo tūponotanga te ako o ēnei āhuatanga i ngā reo, ā te ako o te mōhiotanga o ngā āhuatanga i ngā kaikōrero.
+- **Ororeo tūponotanga** (probabilistic phonology):  Mēna ka mōhio koe i ngā kupu i tētahi reo, he nui ngā tauira i taua kupu i tō roro.  He aha ngā āhuatanga auau i te reo, he aha ngā āhuatanga whakaonge?  Ka noho ēnei tūponotanga i te reo, ā i ngā hinengaro o nga kaikōrero o te reo hōki.   Ko te ororeo tūponotanga te ako o ēnei āhuatanga i ngā reo, ā te ako o te mōhiotanga o aua āhuatanga i ngā kaikōrero.
 
 He tauira – ānei ngā ohokuare i te timatanga o kūoro i te reo Māori (i tēnei).
 
