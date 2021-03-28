@@ -116,18 +116,18 @@ He nui te momo ororeo.  Ānei ētahi tauira:
 
 - **Ororeo tūponotanga** (probabilistic phonology):  Mēna ka mōhio koe i ngā kupu i tētahi reo, he nui ngā tauira i taua kupu i tō roro.  He aha ngā āhuatanga auau i te reo, he aha ngā āhuatanga whakaonge?  Ka noho ēnei tūponotanga i te reo, ā i ngā hinengaro o nga kaikōrero o te reo hōki.   Ko te ororeo tūponotanga te ako o ēnei āhuatanga i ngā reo, ā te ako o te mōhiotanga o aua āhuatanga i ngā kaikōrero.
 
-He tauira – ānei ngā ohokuare i te timatanga o kūoro i te reo Māori (i tēnei).
+He tauira – ānei ngā ohokati i te tīmatanga o ngā kūoro o kupu o te reo Māori.  I te tuaka pae - kei hea i te kupu te kūoro?  Mēnā te kūoro tuatahi, i tuhia '1', mēnā tuarua - 2...  I te tuaka pou - e hia ngā kupu?
 
 ![graph](graph.png)
 
 
 (I te hinonga: [Gradient Māori Phonotactics](https://peterracz.files.wordpress.com/2017/02/gradient_maori_phonotactics_te_reo.pdf)
 
-I te kūoro tuatahi o ngā kupu Māori, he nui ake kuōro e timata ai ki te ‘m’, i te ‘r’.  Engari, i ngā kūoro tuarua, he nui ake ngā kuōre e timata ai ki te ‘r’ i te ‘m’.
+Ka kitea, i te kūoro tuatahi o ngā kupu Māori, he nui ake kuōro e timata ai ki te ‘m’, i te ‘r’.  Engari, i ngā kūoro tuarua, he nui ake ngā kuōre e timata ai ki te ‘r’ i te ‘m’.
 
 Nō reira, mehemea ka hanga au i ētahi kupu hou, he pai ake te ‘mire’ i te ‘rime’, pea.
 
-Ka noho pēnei āhuatanga o te reo i tō hinengaro.
+Ka noho pēnei āhuatanga o te reo i tō hinengaro!
 
 
 
