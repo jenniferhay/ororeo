@@ -30,7 +30,7 @@ Ko te mea nui mō ēnei kēmu: mehemea he tino pai te kupu - he pai ia ki te nui
 
 -   Pai:  *unappeach* (245)
 
-Kua kitea, he tino tata ngā kupu tino pai ki tētahi kupu tuturu.
+Kua kitea, he tino tata ngā kupu tino pai ki tētahi kupu tūturu.
 
 Ko te mea nui o te kēmu:  me whakaaro koe: he tōraro te kupu, he tōrunga rānei?
 
