@@ -101,7 +101,7 @@ He nui ngā kaupapa e ākona ai.   Ānei ētahi pātai, e pātaitia ai e ngā to
 
 -        Kei te haere ngā reo ki hea? Pēhea ngā whakarerekē?
 
-E hangaia te kupu i tēnei kēmu, kia whakautungia ētahi pātai e pā ana te ororeo.
+E hangaia ngā kupu i tēnei kēmu, kia whakautungia ētahi pātai e pā ana te **ororeo**.
 
 
 ## HE AHA TE ‘OROREO?’
