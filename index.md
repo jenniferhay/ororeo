@@ -121,7 +121,7 @@ He tauira – ānei ngā ohokati i te tīmatanga o ngā kūoro o kupu o te reo M
 ![graph](graph.png)
 
 
-(I te hinonga: [Gradient Māori Phonotactics](https://peterracz.files.wordpress.com/2017/02/gradient_maori_phonotactics_te_reo.pdf)
+(I te hinonga: [Gradient Māori Phonotactics](https://peterracz.files.wordpress.com/2017/02/gradient_maori_phonotactics_te_reo.pdf))
 
 Ka kitea, i te kūoro tuatahi o ngā kupu Māori, he nui ake kuōro e timata ai ki te ‘m’, i te ‘r’.  Engari, i ngā kūoro tuarua, he nui ake ngā kuōre e timata ai ki te ‘r’ i te ‘m’.
 
