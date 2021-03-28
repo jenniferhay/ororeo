@@ -198,7 +198,7 @@ I hangaia ngā kupu mō te rangahau o ēnei kairangahau:
 
 -         Dr Wakayo Mattingley, University of Canterbury
 
--         Dr Peter Keegan (Waikato Maniapoto),   University of Auckland
+-         Dr Peter Keegan (Waikato-Maniapoto),   University of Auckland
 
 
 
