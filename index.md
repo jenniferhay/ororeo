@@ -136,12 +136,11 @@ Ka noho pēnei āhuatanga o te reo i tō hinengaro!
  
 Ko te take nui, i hangaia ai mātou i ngā kupu Māori, kia whakautungia tēnei pātai:
 
-Mehemea kei te noho tētahi tangata i Aoteaora, a kāore taua tangata e  ako i te reo Māori,  kāore taua tangata e korero i te reo Māori - he aha te mōhiotanga o tēnei tangata?    Kei te rongo ngā tangata o Aotearoa katoa i te reo Māori i ētahi wā.   I ngā mihimihi, ngā waiata, ngā karakia hoki. Kāore i orotaua, kei te mahara ngā kupu e rātou.   
+Mehemea kei te noho tētahi tangata i Aotearoa, a kāore taua tangata e  ako i te reo Māori,  kāore taua tangata e korero i te reo Māori - he aha te mōhiotanga ororeo tūponotanga o tēnei tangata?    Kei te rongo ngā tangata o Aotearoa katoa i te reo Māori i ētahi wā.   I ngā mihimihi, ngā waiata, ngā karakia hoki. Kāore i orotaua, engara kua mahara ngā kupu e rātou.   
 
-He nui ngā momo mōhio i te kupu.   Ka mōhio koutou i ngā kupu maha.  Kei te mohio koutou i te tikanga o ēnei kupu hoki.  Engari, he momo mōhiotanga i mua i tēnei mōhiotanga.
-Ka rongo tētahi pēpē i tētahi kupu, ka mōhio ia pea ki te āhua o taua kupu, engari kāore anō kia mohio ki te tikanga o taua kupu.  Ko te ingoa o tēnei momo mōhiotanga ko te **Puna Kupu Tuatahi** (i te reo Pākehā, te proto-lexicon).
+He nui ngā momo mōhio i te kupu.   Ka mōhio koutou i ngā kupu nui.  Kei te mohio koutou i te tikanga o ēnei kupu hoki.  Engari, he momo mōhiotanga i mua i tēnei mōhiotanga.  Ka rongo tētahi pēpē i tētahi kupu, ka mōhio ia pea ki te āhua o taua kupu, engari kāore anō kia mohio ki te tikanga o taua kupu.  Ko te ingoa o tēnei momo mōhiotanga ko te **Puna Kupu Tuatahi** (i te reo Pākehā, te **proto-lexicon**).
 
-Ko tō mātou pātai: He aha te nui o te ‘punu kupu tuatahi’ o ngā tangata o Aotearoa, ngā tangata kore mōhio i te reo Māori?   He nui tō mātou ohorere ki te whakautu.   He tino nui te puna kupu tuatahi o ēnei tangata!   I tō rātou puna kupu tuatahi, he orite ō rātou whakaaro e pā ana te pai o ngā kupu i te kēmu nei, ki ngā whakaaro o ngā tangata kōrero Māori. 
+Ko tō mātou pātai: He aha te nui o te ‘punu kupu tuatahi’ o ngā tāngata o Aotearoa, ngā tangata kore mōhio i te reo Māori?   He nui tō mātou ohorere ki te whakautu.   He tino nui te puna kupu tuatahi o ēnei tāngata!   I tō rātou puna kupu tuatahi, he orite ō rātou whakaaro e pā ana te pai o ngā kupu i te kēmu nei, ki ngā whakaaro o ngā tangata kōrero Māori. 
 
 Ka noho ngā kupu Māori i te puna kupu tuatahi o ngā tangata i Aotearoa, nō reira, he tino nui tō rātou mōhiotanga, e pā ana te ororeo tūpuonontanga o te reo.
 
