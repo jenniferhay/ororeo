@@ -54,7 +54,7 @@ E rua ngā kaitākaro.   Me hanga whārite ia kaitākaro.
 
 -        Mehemea ka whakareatia tētahi tau tōraro ki tētahi tau tōraro – he tau tōrunga te otinga!
 
--        Ka whakaotiotia te whakarea i mua i te tāpiri.
+-        Ka tū te raupapa paheko: ka whakaotiotia te whakarea i mua i te tāpiri.
 
 Mehemea ka hiahiatia ētahi ture ngāwari - ka taea te 'x' e waihotia.   Ka tākaro ngā kaitākaro e rua ki te '+' anake.
 
