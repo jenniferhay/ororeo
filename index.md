@@ -8,6 +8,7 @@ Ka tākorotia ēnei kēmu i te reo Pākeha, i te reo Māori rānei.
 
 I ngā reo e rua, i hangaia ētahi kupu, ā i pātaitia ētahi tangata e māia ai i te reo, he aha te pai, te kore rānei kia tū ēnei kupu hei kupu o te reo tūturu. Hei tauira, ko te kupu ‘otiko’ he kupu āhua Māori atu i te kupu ‘iengāo’.
 
+Kua tatau tātou – he aha te pai (te kino rānei) o ēnei kupu katoa.  Ki ia kupu tētahi nama.
 Ko te mea nui mō ēnei kēmu: mehemea he tino pai te kupu - he pai ia ki te nuinga o ngā tangata - he tau tōrunga te tatau.  Mehemea he tino kino, he tau tōraro te tatau.  Ko te tatau o te kupu toharite: 0.
 
 Ānei ētahi tauira o ētahi kupu tino kino, tino pai, ā ētahi kupu toharite, i ia reo.
