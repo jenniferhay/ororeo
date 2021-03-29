@@ -144,7 +144,7 @@ Ko tō mātou pātai: He aha te nui o te ‘punu kupu tuatahi’ o ngā tāngata
 
 Ka noho ngā kupu Māori i te puna kupu tuatahi o ngā tangata i Aotearoa, nō reira, he tino nui tō rātou mōhiotanga, e pā ana te ororeo tūpuonontanga o te reo.
 
-[Ānei ngā whakanikoniko]((https://www.nature.com/articles/s41598-020-78810-4)
+[Ānei ngā whakanikoniko](https://www.nature.com/articles/s41598-020-78810-4)
 
 ## I TE AKOMANGA
 
