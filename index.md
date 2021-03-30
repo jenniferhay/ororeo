@@ -6,9 +6,9 @@
 
 Ka tākorotia ēnei kēmu i te reo Pākeha, i te reo Māori rānei.
 
-I ngā reo e rua, i hangaia ētahi kupu (1700 kupu i te reo Māori, 6100 i te reo Pākeha), ā i pātaitia ētahi tangata i māia ai i te reo, he aha te pai, te kore rānei kia tū ēnei kupu hei kupu o te reo tūturu. Hei tauira, ko te kupu ‘otiko’ he kupu āhua Māori atu i te kupu ‘iengāo’.
+I ngā reo e rua, i hangaia ētahi kupu (1700 kupu i te reo Māori, 6100 i te reo Pākeha), ā i pātaitia ētahi tāngata i māia ai i te reo, he aha te pai, te kore rānei kia tū ēnei kupu hei kupu o te reo tūturu. Hei tauira, ko te kupu ‘otiko’ he kupu āhua Māori atu i te kupu ‘iengāo’.
 
-Kua tatau tātou – he aha te pai (te kino rānei) o ēnei kupu katoa.  Ki ia kupu tētahi nama.
+Kua tatau e tātou – he aha te pai (te kino rānei) o ēnei kupu katoa.  Ki ia kupu tētahi nama.
 Ko te mea nui mō ēnei kēmu: mehemea he tino pai te kupu - he pai ia ki te nuinga o ngā tangata - he tau tōrunga te tatau.  Mehemea he tino kino, he tau tōraro te tatau.  Ko te tatau o te kupu toharite: 0.
 
 Ānei ētahi tauira o ētahi kupu tino kino, tino pai, ā ētahi kupu toharite, i ia reo.
@@ -44,7 +44,7 @@ E rua ngā kaitākaro.   Me hanga whārite ia kaitākaro.
 
 4.     Ka whiriwhiri te kaitākaro tuatahi i te kupu tuarua.  Kātahi ka whiriwhiri ia, mehemea ka whakareatia, ka tāpiria rānei.
 
-5.     Haere tonu.  Me whiriwhiritia ngā kupu tēkau katoa.  E 5 kup ki ia kaitākaro.
+5.     Haere tonu.  Me whiriwhiritia ngā kupu tēkau katoa.  E 5 kupu ki ia kaitākaro.
 
  
 
