@@ -69,7 +69,7 @@ Ka e rima kupu ki a ia kaitākaro, ka kitea te tatau.
 
 ![Tauira](withscores.png)
 
-Ko kaitākaro 2 te toa.   Ka eke ōna paneke.   Ka eke tētahi paneke ki '5', ka oti te kēmu.
+Ko kaitākaro 2 te toa.   Ka eke ōna paneke.   E rima paneke i te kēmu.
 
 
 ## HE AHA AI I HANGAIA NGĀ KUPU I TĒNEI KEMU?
